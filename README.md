@@ -10,10 +10,10 @@
 
 * Summary of set up:
 
-> The results in the publication can be reproduced with the script:
+ The results in the publication can be reproduced with the script:
 	<strong> Real-world illustration/2023_03_03 RW1 Realworld illustration.R </strong>
 
-> This script loads two auxilliary scripts:
+   This script loads two auxilliary scripts:
 >> <strong> Auxilliary Scripts/2023_03_03 Weighted performance metrics functions.R :</strong>
 >> This script contains functions to run all weighted performance metrics.
 
@@ -22,21 +22,25 @@
 <br>
 
 * Configuration:
-> Versions of R and R packages are mentioned in the original publication.
+
+Versions of R and R packages are mentioned in the original publication.
 <br> 
 * Dependencies:
-> All R packages needed are in script: 
+
+All R packages needed are in script: 
 	Real-world illustration/2023_03_03 RW1 Realworld illustration.R
 <br> 	
 * Database configuration:
-> The data used for this real-world illustration are stored at the Dermatology Department of the Erasmus Medical Center and has protected access.
+
+The data used for this real-world illustration are stored at the Dermatology Department of the Erasmus Medical Center and has protected access.
 <br> 
 * Deployment instructions:
-> Run Real-world illustration/2023_03_03 RW1 Realworld illustration.R
+
+Run Real-world illustration/2023_03_03 RW1 Realworld illustration.R
 
 ### Contribution guidelines ###
 
-* Writing tests: Barbara Rentroia Pacheco
+* Code+Writing tests: Barbara Rentroia Pacheco
 * Code review: Domenico Bellomo
 
 ### Who do I talk to? ###
