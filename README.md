@@ -1,6 +1,5 @@
 # README #
 
-
 ### What is this repository for? ###
 
 * This repository contains the scripts to reproduce the real-world illustration of the publication entitled: Weighted metrics are required when evaluating the performance of prediction models in nested case-control cohorts.
